@@ -65,7 +65,7 @@ To determine where you should start, we recommend scanning through the Final Tes
 
 Courses | Duration | Effort | Prerequisites | Assessments
 :-- | :--: | :--: | :--: | :--:
-[Arithmetic](/coursepages/arithmetic/README.md) | 20 Weeks | 8 hours/week | None | [Final Test](https://www.youtube.com/watch?v=Af-MqCJGZww&list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&index=39&pp=iAQB0gcJCTgDd0p55Nqk)
+✅ [Arithmetic](/coursepages/arithmetic/README.md) | 20 Weeks | 8 hours/week | None | [Final Test](https://www.youtube.com/watch?v=Af-MqCJGZww&list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&index=39&pp=iAQB0gcJCTgDd0p55Nqk)
 [Pre-Algebra](/coursepages/pre-algebra/README.md) | 14 Weeks | 6 hours/week | Arithmetic | [Final Test](https://www.youtube.com/watch?v=tz0VX_QfFxI&list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l&index=27&pp=iAQB)
 [Algebra 1](/coursepages/algebra-1/README.md) | 19 Weeks | 8 hours/week | Pre-Algebra | [Final Test Part 1](https://www.youtube.com/watch?v=-RA5vtfH-qY&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=35&t=369s&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=lx0sDd0efSo&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=37&pp=iAQB)
 [Geometry](/coursepages/geometry/README.md) | 25 Weeks | 8 hours/week | Algebra 1 | [Final Test Part 1](https://www.youtube.com/watch?v=84e6AVgYYNk&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=47&t=2s&pp=iAQB), [Part 2](https://www.youtube.com/watch?v=3Aaahyp1Lh8&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=49&pp=iAQB0gcJCTgDd0p55Nqk)
@@ -73,26 +73,10 @@ Courses | Duration | Effort | Prerequisites | Assessments
 [Trigonometry](/coursepages/trigonometry/README.md) | 18 Weeks | 8 hours/week | Algebra 2, Geometry | [Final Test](https://www.youtube.com/watch?v=2vNzGXrgbdQ&list=PLm2VEQtiYjhofP-A_QvAoTVwWjXwU7bCc&index=35&pp=iAQB)
 [Precalculus](/coursepages/precalculus/README.md) | 26 Weeks | 9 hours/week | Trigonometry | [Final Test Part 1](https://www.youtube.com/watch?v=OY63IBm5RpI&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=45&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=aY7qINRAOvU&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=47&pp=iAQB)
 
-
-When going through the playlists, it's important to pause the video and complete most of the problems yourself. You don't have to complete all the problems since a few are used to demonstrate the solving technique, but try to complete as many as possible.
-Practice what you have not mastered by:
-1. Googling and/or searching [YouTube](https://www.youtube.com/) for another POV on the topic or more practice problems, working through the examples with them. [Khan Academy](https://www.youtube.com/@khanacademy), [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor), & [Professor Leonard](https://www.youtube.com/@ProfessorLeonard) are great resources for this.
-2. Asking for help in #prerequisite-math on [Discord](https://discord.gg/mS4GnBCdZk).
-
-## Congratulations
-
-After completing the requirements of the curriculum above,
-you have completed all the prerequisite math necessary to begin a bachelor's degree.
-Congratulations!
-
-What is next for you? You can start with the OSSU [Computer Science](https://cs.ossu.dev), [Data Science](https://ds.ossu.dev), or [Math](https://math.ossu.dev/) curriculum.
-
 ![keep learning](images/keep-learning.webp)
 
 # Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-## How to show your progress
 
 [Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/precollege-math) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
 
